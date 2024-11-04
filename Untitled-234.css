@@ -1,0 +1,54 @@
+/* Estilos personalizados con más color */
+
+/* Gradiente de bienvenida */
+.bg-custom-gradient {
+    background: linear-gradient(135deg, #f72585, #7209b7);
+}
+
+/* Color de fondo para la sección de contacto */
+.bg-custom-secondary {
+    background-color: #4361ee;
+}
+
+/* Color de fondo personalizado para las tarjetas de producto */
+.bg-card-custom {
+    background-color: #4cc9f0;
+    color: white;
+}
+
+/* Bordes de tarjetas */
+.border-custom {
+    border: 2px solid #3a0ca3;
+}
+
+/* Color para los títulos */
+.text-primary {
+    color: #4361ee;
+}
+
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 1rem;
+}
+
+.card {
+    border: 1px solid #ddd;
+}
+
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
